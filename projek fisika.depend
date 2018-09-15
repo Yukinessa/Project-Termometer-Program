@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512853523 source:/home/yukinessa/codeblock/PDP/PDP8/projek fisika/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1513659896 source:/home/yukinessa/codeblock/projek fisika/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
