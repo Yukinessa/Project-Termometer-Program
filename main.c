@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 ///nama : hilmi biya ulhaq
+/// hilmi memang pro sangad ea
 
 int main()
 {
